@@ -1,6 +1,18 @@
 This is my SlackBuilds directory. Find here various build scripts for
 Slackware.
 
+Update Feb. 3rd 2016
+So that nobody will go over me, I want to leave clear here, those scripts are
+taken from slackbuilds.org and are of their respective owner property. But in
+some time modified by me, therefore not exactly equal as the ones you find on 
+slackbuilds.org . Some of them ar adopted to be used to make a full build
+of FreeCAD on slackware64-current right now, this is what will become
+Slackware64-14.2 in a short period probably. 
+
+I will see if I keep up this work and automate it, so we can simply run
+a FreeCAD-build.sh and get out all of the needed packages and a FreeCAD 
+installation on Slackware.
+
 Enjoy
 Sasa Ostrouska
 
